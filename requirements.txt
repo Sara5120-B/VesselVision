@@ -5,3 +5,4 @@ openpyxl
 reportlab
 python-dotenv
 requests
+fpdf
